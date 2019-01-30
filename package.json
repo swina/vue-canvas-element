@@ -1,0 +1,27 @@
+{
+  "name": "vue-canvas-element",
+  "version": "0.1.0",
+  "private": false,
+  "author": "Antonio Nardone <swina.allen@gmail.com>",
+  "license": "MIT",
+  "main": "canvas-element.vue",
+  "name": "vue-canvas-element",
+  "homepage": "https://github.com/swina/vue-info-box",
+  "keywords": [
+    "canvas card",
+    "info box",
+    "business card",
+    "flipping card",
+    "info card",
+    "vue",
+    "vue.js",
+    "vue 2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swina/vue-canvas-element.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
