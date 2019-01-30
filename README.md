@@ -92,7 +92,7 @@ where name is the canvas name and slot the slot clicked
 You  need at least 1 slot option set in order to use the emit event.
 
 | Event | Required | Description | Type |  Return
-| :--- | :---: | :--- | :--- | :---  | :---  |
+| :--- | :---: | :--- | :--- | :---  |
 | @slotClick | NO | click on one of the three clickable area | Function | -name of canvas(String)<br>-slot clicked(Number) |
 
 In your template you have to set a function that get the emitted event.
